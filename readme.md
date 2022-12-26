@@ -13,5 +13,5 @@ Construir uma ferramenta de gestão visual com o Power B.I para uma suposta equi
 ## Resultado 
 
 <p align="center">
-  <img  src="prints/Dashboard_final.png">
+  <img  src="prints/Dashboard_final.png">
 </p>
