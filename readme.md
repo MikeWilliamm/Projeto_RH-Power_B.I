@@ -7,7 +7,7 @@ Construir uma ferramenta de gestão visual com o Power B.I para uma suposta equi
 ## Dados base fornecidos
 
 <p align="center">
-  <img  src="prints/dados_base.png">
+  <img  src="prints/dados_base.png">
 </p>
 
 ## Resultado 
