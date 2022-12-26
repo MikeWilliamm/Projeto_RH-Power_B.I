@@ -1,5 +1,5 @@
 ## Objetivo
-Construir de uma ferramenta de gestão visual com o Power B.I para uma suposta equipe de RH, de forma clara e objetiva, deve ser possível obter informações relevantes.
+Construir uma ferramenta de gestão visual com o Power B.I para uma suposta equipe de RH, de forma clara e objetiva, deve ser possível obter informações relevantes.
 
 ## Dados base fornecidos
 <p align="center">
